@@ -1,0 +1,26 @@
+{
+  "name": "pollyjs-eval",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arackaf/pollyjs-eval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arackaf/pollyjs-eval/issues"
+  },
+  "homepage": "https://github.com/arackaf/pollyjs-eval#readme",
+  "dependencies": {
+    "@pollyjs/adapter-fetch": "^5.1.1",
+    "@pollyjs/adapter-node-http": "^5.1.1",
+    "@pollyjs/core": "^5.1.1",
+    "jest": "^27.0.6",
+    "node-fetch": "^2.6.1"
+  }
+}
