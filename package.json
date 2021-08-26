@@ -20,7 +20,10 @@
     "@pollyjs/adapter-fetch": "^5.1.1",
     "@pollyjs/adapter-node-http": "^5.1.1",
     "@pollyjs/core": "^5.1.1",
+    "@pollyjs/persister-fs": "^5.1.1",
+    "@pollyjs/persister-local-storage": "^5.1.1",
     "jest": "^27.0.6",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "setup-polly-jest": "^0.10.0"
   }
 }
